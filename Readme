@@ -1,0 +1,9 @@
+// ptscript.js: to project all 5000 points to the map;
+
+// pthscript.js: to project all points on 500 polylines to the map;
+
+// ptmovescript.js: to move one point along the line continuously through all points on polylines
+
+// selectpoint.js: get userinput to select point
+
+// peoplemove.js: to move everybody's line
